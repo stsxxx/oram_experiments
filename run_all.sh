@@ -1,4 +1,4 @@
-mkdir -p results_all42/
+mkdir -p results_all/
 mkdir -p results/
 func(){
     make -j
@@ -12,7 +12,7 @@ func(){
     do
       path="./oram_traces/${workload}_1000000_prefetch_1.txt"
       ls ${path}
-      time ./ramulator configs/DDR4-config.cfg --mode=${mod} --stats results/${mod}_${workload}.txt ${path} > results_all42/${mod}_${workload}.log &
+      time ./ramulator configs/DDR4-config.cfg --mode=${mod} --stats results/${mod}_${workload}.txt ${path} > results_all/${mod}_${workload}.log &
     done
 
     

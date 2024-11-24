@@ -6,7 +6,7 @@ cases = ["random_addr", "stream_addr", "redis", "mcf", "lbm", "pagerank", "orca"
 for case in cases:
 
     for k in range(len(ks)):
-        f = open("results_all42" + "/" + ks[k] + "_" + case + ".log", "r")
+        f = open("results_all" + "/" + ks[k] + "_" + case + ".log", "r")
 
         for line in f.readlines():
             # if "Max stash size is:" in line:
