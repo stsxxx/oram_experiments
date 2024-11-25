@@ -1,0 +1,137 @@
+Total number of ORAM protected cache line blocks: 67108864
+Max number of levels: 27
+Valid leaf ID range: 67108863:134217726
+Cached number of levels: 10
+Address space: 0 - 4 GB
+Address space: 0 - 0.5 GB
+Address space: 0 - 0.0625 GB
+IR ORAM executed 10000 inst
+IR ORAM executed 20000 inst
+24032 th address c4080ea hit on id: 274
+IR ORAM executed 30000 inst
+IR ORAM executed 40000 inst
+40304 th address 321286c hit on id: 786
+IR ORAM executed 50000 inst
+53947 th address ba97146 hit on id: 48
+IR ORAM executed 60000 inst
+62201 th address 92f6a5e hit on id: 246
+IR ORAM executed 70000 inst
+IR ORAM executed 80000 inst
+IR ORAM executed 90000 inst
+IR ORAM executed 100000 inst
+IR ORAM executed 110000 inst
+117858 th address 7107221 hit on id: 491
+IR ORAM executed 120000 inst
+IR ORAM executed 130000 inst
+IR ORAM executed 140000 inst
+IR ORAM executed 150000 inst
+IR ORAM executed 160000 inst
+IR ORAM executed 170000 inst
+IR ORAM executed 180000 inst
+IR ORAM executed 190000 inst
+IR ORAM executed 200000 inst
+IR ORAM executed 210000 inst
+IR ORAM executed 220000 inst
+IR ORAM executed 230000 inst
+231267 th address 44bff7c hit on id: 262
+232953 th address 58cf3f3 hit on id: 490
+IR ORAM executed 240000 inst
+IR ORAM executed 250000 inst
+IR ORAM executed 260000 inst
+267458 th address 528537c hit on id: 931
+IR ORAM executed 270000 inst
+IR ORAM executed 280000 inst
+284479 th address 5fcefcd hit on id: 1009
+IR ORAM executed 290000 inst
+IR ORAM executed 300000 inst
+304336 th address 466d76e hit on id: 834
+IR ORAM executed 310000 inst
+IR ORAM executed 320000 inst
+IR ORAM executed 330000 inst
+IR ORAM executed 340000 inst
+IR ORAM executed 350000 inst
+356904 th address 624d3fb hit on id: 488
+IR ORAM executed 360000 inst
+IR ORAM executed 370000 inst
+IR ORAM executed 380000 inst
+IR ORAM executed 390000 inst
+IR ORAM executed 400000 inst
+IR ORAM executed 410000 inst
+IR ORAM executed 420000 inst
+IR ORAM executed 430000 inst
+IR ORAM executed 440000 inst
+IR ORAM executed 450000 inst
+IR ORAM executed 460000 inst
+IR ORAM executed 470000 inst
+472442 th address 864f692 hit on id: 107
+IR ORAM executed 480000 inst
+IR ORAM executed 490000 inst
+IR ORAM executed 500000 inst
+506472 th address 7ed36f2 hit on id: 733
+IR ORAM executed 510000 inst
+IR ORAM executed 520000 inst
+IR ORAM executed 530000 inst
+IR ORAM executed 540000 inst
+IR ORAM executed 550000 inst
+IR ORAM executed 560000 inst
+IR ORAM executed 570000 inst
+IR ORAM executed 580000 inst
+IR ORAM executed 590000 inst
+597686 th address 78cb037 hit on id: 742
+IR ORAM executed 600000 inst
+IR ORAM executed 610000 inst
+IR ORAM executed 620000 inst
+IR ORAM executed 630000 inst
+IR ORAM executed 640000 inst
+IR ORAM executed 650000 inst
+IR ORAM executed 660000 inst
+IR ORAM executed 670000 inst
+IR ORAM executed 680000 inst
+IR ORAM executed 690000 inst
+697966 th address 6c15a77 hit on id: 223
+IR ORAM executed 700000 inst
+IR ORAM executed 710000 inst
+IR ORAM executed 720000 inst
+IR ORAM executed 730000 inst
+IR ORAM executed 740000 inst
+IR ORAM executed 750000 inst
+IR ORAM executed 760000 inst
+IR ORAM executed 770000 inst
+IR ORAM executed 780000 inst
+782868 th address 32b9b1e hit on id: 65
+IR ORAM executed 790000 inst
+IR ORAM executed 800000 inst
+IR ORAM executed 810000 inst
+IR ORAM executed 820000 inst
+IR ORAM executed 830000 inst
+IR ORAM executed 840000 inst
+IR ORAM executed 850000 inst
+IR ORAM executed 860000 inst
+IR ORAM executed 870000 inst
+IR ORAM executed 880000 inst
+IR ORAM executed 890000 inst
+IR ORAM executed 900000 inst
+IR ORAM executed 910000 inst
+IR ORAM executed 920000 inst
+IR ORAM executed 930000 inst
+IR ORAM executed 940000 inst
+IR ORAM executed 950000 inst
+IR ORAM executed 960000 inst
+IR ORAM executed 970000 inst
+IR ORAM executed 980000 inst
+IR ORAM executed 990000 inst
+IR ORAM executed 1000000 inst
+The final DRAM clk is: 927704947 ticks.
+R/W switch time % is: 71.546 %
+DRAM Frequency is: 1600MHz
+The final time in ns is: 5.79816e+08 ns.
+reads: 131984292
+writes: 131984292
+Achieved BW is: 29.1368 GB/s
+Ideal BW is: 102.4 GB/s
+Metadata cache conclusion: 
+overall_hit: 0 overall_total: 0
+Cache Size 64 KB Overall Hit rate: -nan %. 
+stash Bypassed req: 103 out of 1000000 requests 0.0103 %
+Cache Bypassed req: 16 out of 1000000 requests 0.0016 %
+Simulation done. Statistics written to results/iroram_random_addr.txt
